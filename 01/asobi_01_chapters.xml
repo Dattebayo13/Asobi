@@ -1,0 +1,70 @@
+﻿<?xml version=1.0?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>15692131162683353852</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.965000000</ChapterTimeEnd>
+      <ChapterUID>7695405704645453968</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.007000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:05:43.635000000</ChapterTimeEnd>
+      <ChapterUID>579381650402079634</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 1 - Equivalent Exchange</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:05:43.677000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:10:13.947000000</ChapterTimeEnd>
+      <ChapterUID>4259738150093973345</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 2 - Cheap Thrills</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:10:13.988000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:15:57.999000000</ChapterTimeEnd>
+      <ChapterUID>8804014414796502534</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 3 - Pleasure Seekers</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:58.040000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:17.526000000</ChapterTimeEnd>
+      <ChapterUID>13662228047015563478</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 4 - The Kind Pervert</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:21:17.568000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:47.491000000</ChapterTimeEnd>
+      <ChapterUID>1957195290788458148</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:47.575000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:39.960000000</ChapterTimeEnd>
+      <ChapterUID>1915712848168019469</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Lets Play</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

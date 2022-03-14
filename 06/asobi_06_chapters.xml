@@ -1,0 +1,63 @@
+﻿<?xml version=1.0?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>15692131162683353852</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.965000000</ChapterTimeEnd>
+      <ChapterUID>7695405704645453968</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.007000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:08:37.684000000</ChapterTimeEnd>
+      <ChapterUID>579381650402079634</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 20 - Asterisk</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:08:37.726000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:14:22.945000000</ChapterTimeEnd>
+      <ChapterUID>4259738150093973345</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 21 - Studying for Exams</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:14:22.987000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:18:35.489000000</ChapterTimeEnd>
+      <ChapterUID>11132524335333068940</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 22 - A New Look</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:18:35.531000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:09.954000000</ChapterTimeEnd>
+      <ChapterUID>8804014414796502534</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 23 - Spirited Combat, Again</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:09.995000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:39.960000000</ChapterTimeEnd>
+      <ChapterUID>1957195290788458148</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

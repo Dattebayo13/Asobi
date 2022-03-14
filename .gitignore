@@ -1,0 +1,11 @@
+**/*.aac
+**/*.mkv
+**/*.mp4
+**/*.mkv
+**/*.flac
+build/
+.gradle/
+**/*Merged*
+**/*.jpg
+**/results*
+**/*Reference*

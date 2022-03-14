@@ -1,0 +1,52 @@
+﻿<?xml version=1.0?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>15692131162683353852</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.965000000</ChapterTimeEnd>
+      <ChapterUID>7695405704645453968</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.007000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:06:23.592000000</ChapterTimeEnd>
+      <ChapterUID>579381650402079634</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 28 - Gotta Catch em All!</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:06:23.633000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:12:18.947000000</ChapterTimeEnd>
+      <ChapterUID>4259738150093973345</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 29 - Divine Revelation</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:18.988000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:09.912000000</ChapterTimeEnd>
+      <ChapterUID>11132524335333068940</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 30 - The Evil Sugoroku</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:09.996000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:39.960000000</ChapterTimeEnd>
+      <ChapterUID>1957195290788458148</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

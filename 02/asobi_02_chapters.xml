@@ -1,0 +1,70 @@
+﻿<?xml version=1.0?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>15692131162683353852</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.965000000</ChapterTimeEnd>
+      <ChapterUID>7695405704645453968</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.007000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:07:22.150000000</ChapterTimeEnd>
+      <ChapterUID>579381650402079634</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 5 - Killing Time</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:07:22.192000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:57.926000000</ChapterTimeEnd>
+      <ChapterUID>4259738150093973345</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 6 - Friendship Game</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:57.967000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:17:02.897000000</ChapterTimeEnd>
+      <ChapterUID>8804014414796502534</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 7 - The Witch Trials</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:17:02.981000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:36.963000000</ChapterTimeEnd>
+      <ChapterUID>13662228047015563478</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 8 - Non-title Match</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:21:37.004000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:06.927000000</ChapterTimeEnd>
+      <ChapterUID>1957195290788458148</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:06.969000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:39.960000000</ChapterTimeEnd>
+      <ChapterUID>1915712848168019469</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Lets Play</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

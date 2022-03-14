@@ -1,0 +1,70 @@
+﻿<?xml version=1.0?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>15692131162683353852</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.965000000</ChapterTimeEnd>
+      <ChapterUID>7695405704645453968</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Opening</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.007000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:05:44.761000000</ChapterTimeEnd>
+      <ChapterUID>579381650402079634</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 24 - Phantom Thieves: Pass Club</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:05:44.803000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:12:13.942000000</ChapterTimeEnd>
+      <ChapterUID>4259738150093973345</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 25 - Woman of Terror</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:12:13.983000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:15:37.979000000</ChapterTimeEnd>
+      <ChapterUID>11132524335333068940</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 26 - Weirdo Go</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:15:38.062000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:02.970000000</ChapterTimeEnd>
+      <ChapterUID>8804014414796502534</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Contents 27 - Boobie Tragedy</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:21:03.012000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:32.977000000</ChapterTimeEnd>
+      <ChapterUID>1957195290788458148</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Ending</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:33.019000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:39.960000000</ChapterTimeEnd>
+      <ChapterUID>16312121698291016201</ChapterUID>
+      <ChapterDisplay>
+        <ChapterString>Lets Play</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
