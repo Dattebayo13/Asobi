@@ -12,9 +12,9 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 0.500000
-Scroll Position: 28437
-Active Line: 28446
-Video Position: 27075
+Scroll Position: 322
+Active Line: 324
+Video Position: 16003
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -359,7 +359,7 @@ Dialogue: 0,0:10:56.92,0:10:59.51,asobase-italic,Hanako,0,0,0,,into atmospheric 
 Dialogue: 0,0:10:59.51,0:11:01.17,asobase-italic,Hanako,0,0,0,,As for Olivia...
 Dialogue: 0,0:11:02.52,0:11:06.44,asobase-italic,Hanako,0,0,0,,Why doesn't she ever study for anything?
 Dialogue: 0,0:11:07.43,0:11:09.14,Riasan,Teks,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(966.5,654.5)\p1}m -159 -537 l 139 -537 139 315 -159 315
-Dialogue: 1,0:11:07.43,0:11:09.14,Riasan,Teks,0,0,0,,{\fs100\blur0.5\c&H000000&\fsp4.5\1a&H1D&\pos(979.5,646.5)}Two weeks before the exams
+Dialogue: 1,0:11:07.43,0:11:09.14,Riasan,Teks,0,0,0,,{\fs100\blur0.5\c&H000000&\fsp4.5\1a&H1D&\pos(979.5,616.5)}Two weeks before the exams
 Dialogue: 0,0:11:09.14,0:11:10.94,asobase-flashback,Olivia,0,0,0,,What're you up to, Hanako?
 Dialogue: 0,0:11:10.94,0:11:12.58,asobase-flashback,Hanako,0,0,0,,The term exams are coming up.
 Dialogue: 0,0:11:12.58,0:11:14.67,asobase-flashback,Hanako,0,0,0,,I thought I'd make good use of my time.
