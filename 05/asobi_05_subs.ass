@@ -11,9 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 21
-Active Line: 7
-Video Position: 580
+Audio File: asobi_05_premux.mkv
+Video File: asobi_05_premux.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 629
+Active Line: 631
+Video Position: 20471
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -511,6 +516,7 @@ Dialogue: 0,0:11:27.08,0:11:34.29,asobase-italic,Oka,0,0,0,,Two of them graduate
 Dialogue: 0,0:11:34.80,0:11:40.09,asobase-italic,Oka,0,0,0,,I wonder if there's anyone around \Nwho's interested in the occult.
 Dialogue: 0,0:11:40.09,0:11:41.61,asobase-main,Hanako,0,0,0,,Here we go.
 Dialogue: 0,0:11:41.61,0:11:44.95,asobase-italic-top,Hanako,0,0,0,,Kokkuri-san, Kokkuri-san,{\i0} are you there?{\i1}
+Dialogue: 0,0:11:40.10,0:11:42.97,Riasan,Teks,0,0,0,,{\fs10\alpha&H00&\be0.7\c&H3C3F41&\fnBakerSignet BT\1a&H2D&\org(551.4,500.7)\fry13.34\frx0.87\frz2.113\pos(482.01,556.34)}Pastimers Club
 Dialogue: 0,0:11:42.97,0:11:43.01,Riasan,Teks,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs48\blur1.5\be0\fsp3\c&H3C3F41&\fnBakerSignet BT\pos(874.005,946.005)\1a&H14&}Pastimers Club
 Dialogue: 0,0:11:43.01,0:11:43.05,Riasan,Teks,0,0,0,,{\fscx100.22\fscy100.22\frz0.01\alpha&H00&\fs48\blur1.5\be0\fsp3\c&H3C3F41&\fnBakerSignet BT\pos(873.87,946.875)\1a&H14&}Pastimers Club
 Dialogue: 0,0:11:43.05,0:11:43.09,Riasan,Teks,0,0,0,,{\fscx100.45\fscy100.45\frz0.03\alpha&H00&\fs48\blur1.5\be0\fsp3\c&H3C3F41&\fnBakerSignet BT\pos(873.87,947.82)\1a&H14&}Pastimers Club
@@ -674,6 +680,7 @@ Dialogue: 0,0:14:00.40,0:14:04.02,asobase-main,Oka,0,0,0,,Okay, now we put this 
 Dialogue: 0,0:14:04.02,0:14:06.32,asobase-main,Oka,0,0,0,,Let's go to the washroom, everyone.
 Dialogue: 0,0:14:04.03,0:14:06.32,Riasan,Teks,0,0,0,,{\fsp2.5\fs55\be1\c&H6C797F&\blur0.75\fnHand Scribble Sketch Times\b1\pos(982.071,667.214)}Girls Toilet
 Dialogue: 0,0:14:08.69,0:14:11.08,asobase-main,Oka,0,0,0,,Is there a TV anywhere?
+Dialogue: 0,0:14:08.33,0:14:13.83,Riasan,Teks,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs17.5\be1.4\c&H3C3F41&\fnBakerSignet BT\1a&H2D&\org(315.9,284.2)\fry13.42\frx-1.23\frz0.35\pos(257.01,501.01)}Pastimers Club
 Dialogue: 0,0:14:11.08,0:14:13.83,asobase-main,Kasumi,0,0,0,,Oh, I get 1seg on my phone.
 Dialogue: 0,0:14:15.16,0:14:18.45,asobase-main,Oka,0,0,0,,Close your eyes for ten seconds.
 Dialogue: 0,0:14:17.92,0:14:19.92,Riasan,Teks,0,0,0,,{\fsp2.5\fs55\be1\c&H6C797F&\blur0.75\fnHand Scribble Sketch Times\b1\pos(982.071,667.214)}Girls Toilet
