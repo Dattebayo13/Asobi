@@ -1663,14 +1663,14 @@ Dialogue: 0,0:19:31.29,0:19:33.27,asobase-main,Olivia,0,0,0,,Um, Teacher...
 Dialogue: 0,0:19:33.85,0:19:35.94,asobase-main,,0,0,0,,Eh, what is it?
 Dialogue: 0,0:19:35.94,0:19:39.21,asobase-main,Olivia,0,0,0,,Peter popsicle, piccolo peephole, \Nwhoa, bazinga, boobies!
 Dialogue: 0,0:19:35.98,0:19:39.24,Riasan,Olivia,0,0,0,,{\an1\bord0\shad0\blur1.5\p1\pos(291,795)\c&HFFFFFF&\fscx896\fscy58}m 0 0 l 150 0 150 150 0 150
-Dialogue: 1,0:19:35.98,0:19:39.24,Riasan,Olivia,0,0,0,,{\blur1.3\c&H0F0F0F&\fs58.5\fscy115\fsp1.5\fnArial Unicode MS\b1\pos(963,783)}"Do English tongue twisters in front of a teacher"
+Dialogue: 1,0:19:35.98,0:19:39.24,Riasan,Olivia,0,0,0,,{\blur1\c&H0F0F0F&\fs58.5\fscy115\fsp1.5\fnArial Unicode MS\b1\pos(963,783)}"Do English tongue twisters in front of a teacher"
 Dialogue: 0,0:19:40.49,0:19:41.72,asobase-main,Hanako,0,0,0,,You're next, Kasumi.
 Dialogue: 0,0:19:41.72,0:19:42.34,asobase-main,Kasumi,0,0,0,,No way!
 Dialogue: 0,0:19:42.34,0:19:44.33,asobase-main,Kasumi,0,0,0,,You go first, please, Hanako.
 Dialogue: 0,0:19:44.95,0:19:47.58,asobase-main,Hanako,0,0,0,,Teacher, look!
 Dialogue: 0,0:19:47.58,0:19:50.50,asobase-main,Hanako,0,0,0,,Pretty Soldier Honda Hanako!
 Dialogue: 0,0:19:47.62,0:19:50.54,Riasan,Olivia,0,0,0,,{\an1\bord0\shad0\blur1.5\p1\c&HFFFFFF&\fscx1087\fscy57\pos(159,980.333)}m 0 0 l 150 0 150 150 0 150
-Dialogue: 1,0:19:47.62,0:19:50.54,Riasan,Olivia,0,0,0,,{\blur1.2\c&H0F0F0F&\fs58.5\fscy115\fsp1.5\fnArial Unicode MS\b1\pos(960,968.333)}Do a Sailor Mo*n impression in front of a teacher
+Dialogue: 1,0:19:47.62,0:19:50.54,Riasan,Olivia,0,0,0,,{\blur1\c&H0F0F0F&\fs58.5\fscy115\fsp1.5\fnArial Unicode MS\b1\pos(960,968.333)}Do a Sailor Mo*n impression in front of a teacher
 Dialogue: 0,0:19:52.50,0:19:55.00,asobase-main,Hanako,0,0,0,,In the name of justice...
 Dialogue: 0,0:19:55.00,0:19:57.13,asobase-main,Kasumi,0,0,0,,Don't, you're going to get put in \Njail for saying stuff like that!
 Dialogue: 0,0:19:58.88,0:20:00.76,asobase-main,Hanako,0,0,0,,I punish...
@@ -1683,7 +1683,7 @@ Dialogue: 0,0:20:20.58,0:20:21.49,asobase-italic,Sensei,0,0,0,,All right.
 Dialogue: 0,0:20:21.49,0:20:23.99,asobase-italic,Sensei,0,0,0,,I'll make a proper reaction next time.
 Dialogue: 0,0:20:23.99,0:20:26.62,asobase-main,Kasumi,0,0,0,,T-Teacher...
 Dialogue: 0,0:20:26.66,0:20:30.29,Riasan,Olivia,0,0,0,,{\an1\bord0\shad0\blur1.5\p1\c&HFFFFFF&\pos(399,984)\fscx749\fscy65}m 0 0 l 150 0 150 150 0 150
-Dialogue: 1,0:20:26.66,0:20:30.29,Riasan,Olivia,0,0,0,,{\blur1.2\c&H0F0F0F&\fs52.5\fscy115\fsp1.5\fnArial Unicode MS\b1\pos(960,966.429)}Fire a Kamehameha in front of a teacher
+Dialogue: 1,0:20:26.66,0:20:30.29,Riasan,Olivia,0,0,0,,{\blur1\c&H0F0F0F&\fs52.5\fscy115\fsp1.5\fnArial Unicode MS\b1\pos(960,966.429)}Fire a Kamehameha in front of a teacher
 Dialogue: 0,0:20:27.41,0:20:34.25,asobase-main,Kasumi,0,0,0,,Ka... me... ha... me...
 Dialogue: 0,0:20:34.25,0:20:35.50,asobase-main,Kasumi,0,0,0,,Ha!
 Dialogue: 0,0:20:35.50,0:20:36.90,asobase-italic,Sensei,0,0,0,,Here we go!
