@@ -50,6 +50,7 @@ subs {
         }
 		attach(get("common_fonts")) { includeExtensions("ttf", "otf") }
 		onMissingGlyphs(ErrorMode.IGNORE)
+		skipUnusedFonts(true)
         out(get("muxout"))
     }
 
