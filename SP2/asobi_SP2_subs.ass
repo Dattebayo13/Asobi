@@ -16,9 +16,9 @@ Video File: asobi_SP2_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 51
-Active Line: 54
-Video Position: 3601
+Scroll Position: 291
+Active Line: 299
+Video Position: 108
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,6 +329,6 @@ Dialogue: 0,0:05:10.75,0:05:11.67,asobase-main,,0,0,0,,Sure.
 Dialogue: 0,0:05:12.20,0:05:14.10,asobase-main,,0,0,0,,{\i1}The girls had yet to learn
 Dialogue: 0,0:05:14.10,0:05:18.58,asobase-main,,0,0,0,,{\i1}that the truly strong do not need to boast.
 Dialogue: 0,0:03:44.06,0:03:48.18,Default-alt,,0,0,0,,Hurry up! If you don't, Kasumi's gonna lose!
-Dialogue: 0,0:00:01.01,0:00:04.50,AsobiTitle,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,595)\p1\c&H3CD4FD&}m -532 -87 l 566 -87 566 41 -532 41
-Dialogue: 1,0:00:01.01,0:00:04.50,AsobiTitle,,0,0,0,,{\blur0.5\3c&HEBDDA4&\pos(960,595)}Armstrong
+Dialogue: 0,0:00:00.98,0:00:04.50,AsobiTitle,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,595)\p1\c&H3CD4FD&}m -532 -87 l 566 -87 566 41 -532 41
+Dialogue: 1,0:00:00.98,0:00:04.50,AsobiTitle,,0,0,0,,{\blur0.5\3c&HEBDDA4&\pos(960,595)}Armstrong
 Dialogue: 0,0:00:04.50,0:00:08.25,Signs,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs60\blur1.32\be1\fsp6\c&H393C3E&\fnBakerSignet BT\1a&H14&\pos(824,524)}Pastimers\NClub
