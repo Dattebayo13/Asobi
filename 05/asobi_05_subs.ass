@@ -33,16 +33,6 @@ Style: asobase-italic,Gandhi Sans,74,&H00FFFFFF,&H000017FD,&H00000000,&HA0000000
 Style: asobase-italic-top,Gandhi Sans,74,&H00FFFFFF,&H000017FD,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,8,200,200,40,1
 Style: asobase-main,Gandhi Sans,74,&H00FFFFFF,&H000017FD,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,40,1
 Style: asobase-main-top,Gandhi Sans,74,&H00FFFFFF,&H000017FD,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,200,200,40,1
-Style: black,Open Sans Semibold,81,&H00000000,&H000017FD,&H00FFFFFF,&H0081B7EA,-1,0,0,0,100,100,0,0,1,9,0,7,61,61,61,1
-Style: black2,Open Sans Semibold,59,&H006D6E6D,&H000017FD,&H00EEE6E2,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,61,61,151,1
-Style: club,Open Sans Semibold,56,&H007D8281,&H000017FD,&H0058624A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,61,61,61,1
-Style: end3,Open Sans Semibold,65,&H00000000,&H000017FD,&H00F9F9F9,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,29,29,61,0
-Style: game,Open Sans Semibold,65,&H002623D1,&H000017FD,&H00F9F9F9,&H00000000,0,0,0,0,100,100,0,0,1,6.75,4.5,7,152,29,299,0
-Style: note,Open Sans Semibold,41,&H00000000,&H000017FD,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,8,29,29,61,1
-Style: office,Open Sans Semibold,56,&H00667171,&H000017FD,&H00D3DCDD,&H0081B7EA,-1,0,0,0,100,100,0,0,1,9,0,8,61,61,376,1
-Style: ohh,Open Sans Semibold,72,&H0063DAFC,&H000017FD,&H00162738,&H00162738,-1,0,0,0,100,100,0,0,1,2.25,6.75,8,61,61,61,1
-Style: red,Open Sans Semibold,115,&H002212B4,&H000017FD,&H00312892,&H00101011,-1,0,0,0,100,100,0,0,1,2.25,0,2,61,605,90,0
-Style: watermelon,Open Sans Semibold,81,&H00CCF8F5,&H000017FD,&H006CAB93,&H00101011,-1,0,0,0,100,100,0,0,1,4.5,0,8,61,61,61,0
 Style: AsobiTitle,Georgia,90,&H00FFFFFD,&H00003FFF,&H00E8E8E8,&H00848484,0,0,0,0,104,104,14,0,1,0,0,2,40,40,50,0
 Style: Riasan,AucoinLight,68,&H00FFFFFF,&H000017FD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: Tanda,Arial,45,&H00FFFFFF,&H000017FD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
@@ -152,7 +142,7 @@ Comment: 0,0:20:30.50,0:20:30.54,Riasan,,0,0,0,,{=10}{\fscx121.96\fscy121.96\alp
 Comment: 0,0:20:30.54,0:20:30.58,Riasan,,0,0,0,,{=10}{\fscx122.01\fscy122.01\alpha&H00&\c&H0B0B0C&\blur1.095\fnAngelina\fs18\fsp1.5\b1\frz3.16\fax0.1\pos(881.835,949.245)\clip(m 978 919.5 l 969 936 958.5 952.5 736.5 970.5 661.5 877.5)}Pastimers' Club Club Notes
 Comment: 0,0:20:30.58,0:20:30.62,Riasan,,0,0,0,,{=10}{\fscx121.98\fscy121.98\alpha&H00&\c&H0B0B0C&\blur1.095\fnAngelina\fs18\fsp1.5\b1\frz3.15\fax0.1\pos(881.805,949.245)\clip(m 978 919.5 l 969 936 958.5 952.5 736.5 970.5 661.5 877.5)}Pastimers' Club Club Notes
 Comment: 0,0:20:30.62,0:20:30.66,Riasan,,0,0,0,,{=10}{\fscx122.72\fscy122.72\alpha&H00&\c&H0B0B0C&\blur1.11\fnAngelina\fs18\fsp1.5\b1\frz3.45\fax0.1\pos(876.93,953.64)\clip(m 976.5 927 l 966 945 939 951 732 976.5 654 882)}Pastimers' Club Club Notes
-Comment: 0,0:20:30.66,0:20:30.70,Riasan,,0,0,0,,{=10}{\fscx122.72\fscy122.72\alpha&H00&\c&H0B0B0C&\blur1.11\fnAngelina\fs18\fsp1.5\b1\frz3.45\fax0.1\pos(876.93,953.64)\clip(m 976.5 927 l 966 945 939 951 732 976.5 654 882)}Pastimers' Club Club Notes
+Comment: 0,0:20:30.66,0:20:30.70,Riasan,,0,0,0,,{\fscx122.72\fscy122.72\alpha&H00&\c&H0B0B0C&\blur1.11\fnAngelina\fs18\fsp1.5\b1\frz3.45\fax0.1\pos(876.93,953.64)\clip(m 976.5 927 l 966 945 939 951 732 976.5 654 882)}Pastimers' Club Club Notes
 Comment: 0,0:20:30.70,0:20:30.75,Riasan,,0,0,0,,{=10}{\fscx122.69\fscy122.69\alpha&H00&\c&H0B0B0C&\blur1.11\fnAngelina\fs18\fsp1.5\b1\frz3.44\fax0.1\pos(876.915,953.64)\clip(m 976.5 927 l 966 945 939 951 732 976.5 654 882)}Pastimers' Club Club Notes
 Dialogue: 0,0:00:06.27,0:00:08.21,OP,,0,0,0,,{\fad(200,300)\blur0.938}Rock, paper
 Dialogue: 0,0:00:09.18,0:00:11.21,OP,,0,0,0,,{\fad(200,300)\blur0.938}Rock, paper
